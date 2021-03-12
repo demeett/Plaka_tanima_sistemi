@@ -1,0 +1,11 @@
+C:\Users\demir\OneDrive\Belgeler\Visual Studio 2017\Projects\OpenALPR-PlakaTanima\OpenALPR-PlakaTanima\obj\x64\Debug\PlakaTanima.Form1.resources
+C:\Users\demir\OneDrive\Belgeler\Visual Studio 2017\Projects\OpenALPR-PlakaTanima\OpenALPR-PlakaTanima\obj\x64\Debug\OpenALPR_PlakaTanima.Properties.Resources.resources
+C:\Users\demir\OneDrive\Belgeler\Visual Studio 2017\Projects\OpenALPR-PlakaTanima\OpenALPR-PlakaTanima\obj\x64\Debug\OpenALPR-PlakaTanima.csproj.GenerateResource.Cache
+C:\Users\demir\OneDrive\Belgeler\Visual Studio 2017\Projects\OpenALPR-PlakaTanima\OpenALPR-PlakaTanima\obj\x64\Debug\OpenALPR-PlakaTanima.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Belgeler\Visual Studio 2017\Projects\OpenALPR-PlakaTanima\OpenALPR-PlakaTanima\bin\x64\Debug\OpenALPR-PlakaTanima.exe.config
+C:\Users\demir\OneDrive\Belgeler\Visual Studio 2017\Projects\OpenALPR-PlakaTanima\OpenALPR-PlakaTanima\bin\x64\Debug\OpenALPR-PlakaTanima.exe
+C:\Users\demir\OneDrive\Belgeler\Visual Studio 2017\Projects\OpenALPR-PlakaTanima\OpenALPR-PlakaTanima\bin\x64\Debug\OpenALPR-PlakaTanima.pdb
+C:\Users\demir\OneDrive\Belgeler\Visual Studio 2017\Projects\OpenALPR-PlakaTanima\OpenALPR-PlakaTanima\obj\x64\Debug\OpenALPR-PlakaTanima.exe
+C:\Users\demir\OneDrive\Belgeler\Visual Studio 2017\Projects\OpenALPR-PlakaTanima\OpenALPR-PlakaTanima\obj\x64\Debug\OpenALPR-PlakaTanima.pdb
+C:\Users\demir\OneDrive\Belgeler\Visual Studio 2017\Projects\OpenALPR-PlakaTanima\OpenALPR-PlakaTanima\obj\x64\Debug\OpenALPR-PlakaTanima.csproj.CopyComplete
+C:\Users\demir\OneDrive\Belgeler\Visual Studio 2017\Projects\OpenALPR-PlakaTanima\OpenALPR-PlakaTanima\obj\x64\Debug\OpenALPR-PlakaTanima.csprojAssemblyReference.cache
